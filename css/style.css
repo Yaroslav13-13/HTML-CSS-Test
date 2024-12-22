@@ -1,0 +1,19 @@
+.social-links {
+  color: rgb(128, 0, 19);
+}
+
+.link {
+  color: inherit;
+}
+
+.social-links .link:hover {
+  color: rgb(115, 0, 255);
+}
+
+.social-links .link:active {
+  color: red;
+}
+
+.social-links .link:focus {
+  color: rgb(0, 255, 4);
+}
