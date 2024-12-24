@@ -1,5 +1,5 @@
 .social-links {
-  color: rgb(128, 0, 19);
+  color: rgb(0, 0, 0);
 }
 
 .link {
@@ -16,4 +16,8 @@
 
 .social-links .link:focus {
   color: rgb(0, 255, 4);
+}
+
+.container-nav {
+  background-color: #65ae82;
 }
