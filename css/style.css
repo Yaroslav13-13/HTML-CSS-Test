@@ -20,4 +20,17 @@
 
 .container-nav {
   background-color: #65ae82;
+  box-sizing: border-box;
+  display: block;
+  width: 1440px;
+  height: 72px;
+}
+
+.container-logo {
+}
+
+.container-lin {
+}
+
+.container-addres {
 }
